@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.3.0",
+  "latestVersionCode": 13,
+  "url": "https://github.com/vlrod/sfut/releases",
+  "releaseNotes": [
+    "- Controle remoto Básico",
+    "- Alerta de versão",
+    "- Bug fixes"
+  ]
+}
