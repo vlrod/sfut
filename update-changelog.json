@@ -5,6 +5,6 @@
   "releaseNotes": [
     "- Controle remoto Básico",
     "- Alerta de versão",
-    "- Bug fixes"
+    "- Verificação se está na rede wifi"
   ]
 }
