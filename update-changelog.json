@@ -1,8 +1,9 @@
 {
-  "latestVersion": "1.5.0",
-  "latestVersionCode": 15,
+  "latestVersion": "1.6.0",
+  "latestVersionCode": 16,
   "url": "https://smartfut.ml/download.html",
   "releaseNotes": [
+    "- Testes automáticos",
     "- Controle remoto Básico",
     "- Alerta de versão",
     "- Validação de rede wi-fi",
