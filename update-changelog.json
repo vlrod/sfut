@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.6.0",
   "latestVersionCode": 16,
-  "url": "https://smartfut.ml/download.html",
+  "url": "https://github.com/vlrod/sfut/releases/download/v1.6.0/smartfut_1_6_0.apk",
   "releaseNotes": [
     "- Testes automáticos",
     "- Controle remoto Básico",
