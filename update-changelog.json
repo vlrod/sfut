@@ -1,11 +1,10 @@
 {
-  "latestVersion": "1.6.0",
-  "latestVersionCode": 16,
+  "latestVersion": "1.8.0",
+  "latestVersionCode": 18,
   "url": "https://smartfut.ml/download.html",
   "releaseNotes": [
-    "- Testes automáticos",
-    "- Controle remoto Básico",
-    "- Alerta de versão",
+    "- Veja os seus feedbacks enviados",
+    "- Adicione comentários em seus feedbacks",
     "- Diversas correções"
   ]
 }
