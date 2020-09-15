@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.8.0",
-  "latestVersionCode": 18,
+  "latestVersion": "1.9.0",
+  "latestVersionCode": 19,
   "url": "https://smartfut.ml/download.html",
   "releaseNotes": [
-    "- Veja os seus feedbacks enviados",
-    "- Adicione comentários em seus feedbacks",
+    "- Adição de logs automaticamente",
+    "- Exibição na descrição de pesquisas",
     "- Diversas correções"
   ]
 }
