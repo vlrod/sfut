@@ -1,10 +1,10 @@
 {
-  "latestVersion": "2.2.0",
-  "latestVersionCode": 22,
+  "latestVersion": "2.3.0",
+  "latestVersionCode": 23,
   "url": "https://smartfut.ml/download.html",
   "releaseNotes": [
-    "- Veja as imagens anexadas nos feedbacks",
-    "- Correção no envio de comentários",
-    "- Diversas correções"
+    "- Melhorias de usablidade",
+    "- Controle de sessões",
+    "- Pequenas correções"
   ]
 }
