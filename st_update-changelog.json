@@ -3,7 +3,7 @@
   "latestVersionCode": 4,
   "url": "https://drive.google.com/file/d/1IZYlt9PWbJB5zks1L7KU0eT6oRfYMXKs/view?usp=sharing",
   "releaseNotes": [
-    "- Controle remoto Básico",
-    "- Diversas correções"
+    "- Destaque de erros em nodos da rede",
+    "- Informa a última vez que um erro ocorreu."
   ]
 }
